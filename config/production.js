@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
 const config = {
-    url: "https://tdlist.herokuapp.com",
+    url: "https://lite-journal.herokuapp.com/",
     // mongodb connection setting
     database: {
         connect: function (db) {
